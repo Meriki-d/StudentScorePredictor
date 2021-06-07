@@ -17,5 +17,5 @@ Datacan be found at http://bit.ly/w-data
     
       $ pip install -r requirements.txt  ( or conda install )
       
-* Open 'boston_dataset.ipynb' in Jupyter Notebook
+* Open 'ScorePredictor.ipynb' in Jupyter Notebook
 
